@@ -24,5 +24,4 @@ def line():
     y2 = a * x2 + b
     p2 = (x2, y2)
     
-
     print(f'La distancia entre ellos es: {math.dist(p1, p2)}')
